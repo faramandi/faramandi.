@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Faramandi Team Services</title>
+<style>
+body { font-family: sans-serif; background:#f5f5f5; padding:40px; }
+.card { background:white; padding:20px; margin-bottom:20px; border-radius:12px; }
+h2 { color:#333; }
+</style>
+</head>
+<body>
+<h1>خدمات تیم فرامندی</h1>
+
+<div class="card">
+<h2>اتوماسیون کسب‌وکار</h2>
+<ul>
+<li>ربات پاسخ‌گوی واتساپ</li>
+<li>اتوماسیون سفارش</li>
+<li>سیستم مدیریت مشتری</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>خدمات علمی</h2>
+<ul>
+<li>تحلیل داده‌های آزمایشگاهی</li>
+<li>محتوای تخصصی</li>
+<li>پاورپوینت علمی</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>طراحی و محتوا</h2>
+<ul>
+<li>طراحی پست اینستاگرام</li>
+<li>بنر و کاور</li>
+<li>کپشن‌نویسی تخصصی</li>
+</ul>
+</div>
+
+</body>
+</html>
